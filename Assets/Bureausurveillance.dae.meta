@@ -1,0 +1,2097 @@
+fileFormatVersion: 2
+guid: 790d21096128cb742b785f1f1788b544
+timeCreated: 1486234674
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CGM_Base_table_B6
+    100004: CGM_Base_table_Cabelbox_new
+    100006: CGM_Base_table_Cabelbox_new 1
+    100008: CGM_Base_table_Cabelchain_old
+    100010: CGM_Base_table_Cabelchain_old 1
+    100012: CGM_Base_table_Monitorboard_Arm
+    100014: CGM_Base_table_Monitorboard_Arm 1
+    100016: CGM_Base_table_Monitorboard_B6
+    100018: CGM_Base_table_Monitorboard_Frame_B6
+    100020: CGM_Base_table_Monitorboard_Pillar__1
+    100022: CGM_Base_table_Monitorboard_Pillar__1 1
+    100024: CGM_Base_table_Monitorboard_Pillar__2
+    100026: CGM_Base_table_Monitorboard_Pillar__2 1
+    100028: CGM_Base_table_Pillar
+    100030: CGM_Base_table_Pillar 1
+    100032: CGM_Base_table_Pillar 2
+    100034: CGM_Base_table_Pillar 3
+    100036: CGM_Base_table_Pillar 4
+    100038: CGM_Base_table_Pillar_Distance
+    100040: CGM_Base_table_Pillar_Distance 1
+    100042: CGM_Base_table_Pillar_Foot
+    100044: CGM_Base_table_Pillar_Foot 1
+    100046: CGM_Base_table_Pillar_with_CGM_Loggo
+    100048: CGM_Base_table_Skirt_A
+    100050: CGM_Base_table_Skirt_A 1
+    100052: CGM_Base_table_Skirt_A 2
+    100054: CGM_Base_table_Skirt_A 3
+    100056: CGM_Base_table_Skirt_A 4
+    100058: CGM_Base_table_Skirt_A 5
+    100060: CGM_Base_table_Skirt_A_Holder
+    100062: CGM_Base_table_Skirt_A_Holder 1
+    100064: CGM_Base_table_Skirt_A_Holder 2
+    100066: CGM_Base_table_Skirt_A_Holder 3
+    100068: CGM_Base_table_Skirt_A_Holder 4
+    100070: CGM_Base_table_Skirt_A_Holder 5
+    100072: CGM_Base_table_Skirt_A_Holder 6
+    100074: CGM_Base_table_Technical_Shelf_1400
+    100076: CGM_Base_table_Topboard_B6
+    100078: CGM_Base_table_Topboard_Frame_B6
+    100080: CGM_Chair_Armrest
+    100082: CGM_Chair_Armrest 1
+    100084: CGM_Chair_Armrest_Holder
+    100086: CGM_Chair_Armrest_Holder 1
+    100088: CGM_Chair_Backrest
+    100090: CGM_Chair_Focoo
+    100092: CGM_Chair_Headrest
+    100094: CGM_Chair_Hydraluics__2
+    100096: CGM_Chair_Hydraulics__1
+    100098: CGM_Chair_Hydraulics__1 1
+    100100: CGM_Chair_Seat
+    100102: CGM_Chair_Seat_Frame
+    100104: CGM_Chair_Wheel
+    100106: CGM_Chair_Wheel 1
+    100108: CGM_Chair_Wheel 2
+    100110: CGM_Chair_Wheel 3
+    100112: CGM_Chair_Wheel 4
+    100114: CGM_Chair_Wheel_Arm
+    100116: CGM_Chair_Wheel_Arm 1
+    100118: CGM_Chair_Wheel_Arm 2
+    100120: CGM_Chair_Wheel_Arm 3
+    100122: CGM_Chair_Wheel_Arm 4
+    100124: CGM_Chair_Wheel_Holder
+    100126: CGM_Chair_Wheel_Holder 1
+    100128: CGM_Chair_Wheel_Holder 2
+    100130: CGM_Chair_Wheel_Holder 3
+    100132: CGM_Chair_Wheel_Holder 4
+    100134: CGM_LED_Lamp_with_Sound_Shower
+    100136: CGM_Lighing_arm_DSLX
+    100138: CGM_Lighing_arm_DSLX 1
+    100140: CGM_Monitors_and_Sideboards_Lamp_Holder
+    100142: CGM_Monitors_and_Sideboards_Lamp_Holder 1
+    100144: CGM_Monitors_and_Sideboards_Lamp_Holder2
+    100146: CGM_Monitors_and_Sideboards_Lamp_Holder2 1
+    100148: CGM_Monitors_and_Sideboards_LED_Lamp_Armature
+    100150: CGM_Monitors_and_Sideboards_LED_Lamp_Armature 1
+    100152: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides
+    100154: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides 1
+    100156: CGM_Monitors_and_Sideboards_LED_Lamp_Sound_Shower_and_Technology
+    100158: CGM_Monitors_and_Sideboards_Lighting_1560
+    100160: CGM_Monitors_and_Sideboards_Lower_Monitors
+    100162: CGM_Monitors_and_Sideboards_Lower_Monitors 1
+    100164: CGM_Monitors_and_Sideboards_Lower_Monitors 2
+    100166: CGM_Monitors_and_Sideboards_Lower_Monitors 3
+    100168: CGM_Monitors_and_Sideboards_Lower_Monitors 4
+    100170: CGM_Monitors_and_Sideboards_Lower_Monitors 5
+    100172: CGM_Monitors_and_Sideboards_Monitor
+    100174: CGM_Monitors_and_Sideboards_Monitor 1
+    100176: CGM_Monitors_and_Sideboards_Monitor 10
+    100178: CGM_Monitors_and_Sideboards_Monitor 11
+    100180: CGM_Monitors_and_Sideboards_Monitor 2
+    100182: CGM_Monitors_and_Sideboards_Monitor 3
+    100184: CGM_Monitors_and_Sideboards_Monitor 4
+    100186: CGM_Monitors_and_Sideboards_Monitor 5
+    100188: CGM_Monitors_and_Sideboards_Monitor 6
+    100190: CGM_Monitors_and_Sideboards_Monitor 7
+    100192: CGM_Monitors_and_Sideboards_Monitor 8
+    100194: CGM_Monitors_and_Sideboards_Monitor 9
+    100196: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L
+    100198: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 1
+    100200: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 2
+    100202: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 3
+    100204: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 4
+    100206: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 5
+    100208: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1
+    100210: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 1
+    100212: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 2
+    100214: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 3
+    100216: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 4
+    100218: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 5
+    100220: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2
+    100222: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 1
+    100224: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 10
+    100226: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 11
+    100228: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 12
+    100230: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 13
+    100232: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 14
+    100234: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 15
+    100236: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 16
+    100238: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 17
+    100240: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 18
+    100242: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 19
+    100244: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 2
+    100246: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 20
+    100248: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 21
+    100250: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 22
+    100252: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 23
+    100254: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 3
+    100256: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 4
+    100258: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 5
+    100260: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 6
+    100262: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 7
+    100264: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 8
+    100266: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 9
+    100268: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3
+    100270: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 1
+    100272: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 10
+    100274: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 11
+    100276: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 12
+    100278: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 13
+    100280: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 14
+    100282: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 15
+    100284: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 16
+    100286: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 17
+    100288: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 18
+    100290: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 19
+    100292: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 2
+    100294: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 20
+    100296: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 21
+    100298: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 22
+    100300: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 23
+    100302: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 3
+    100304: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 4
+    100306: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 5
+    100308: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 6
+    100310: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 7
+    100312: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 8
+    100314: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 9
+    100316: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4
+    100318: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 1
+    100320: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 10
+    100322: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 11
+    100324: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 2
+    100326: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 3
+    100328: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 4
+    100330: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 5
+    100332: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 6
+    100334: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 7
+    100336: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 8
+    100338: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 9
+    100340: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw
+    100342: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 1
+    100344: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 10
+    100346: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 11
+    100348: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 2
+    100350: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 3
+    100352: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 4
+    100354: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 5
+    100356: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 6
+    100358: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 7
+    100360: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 8
+    100362: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 9
+    100364: CGM_Monitors_and_Sideboards_Screen_B_1
+    100366: CGM_Monitors_and_Sideboards_Screen_B_2
+    100368: CGM_Monitors_and_Sideboards_Screen_B_3
+    100370: CGM_Monitors_and_Sideboards_Screen_B_4
+    100372: CGM_Monitors_and_Sideboards_Screen_B_5
+    100374: CGM_Monitors_and_Sideboards_Screen_B_6
+    100376: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor
+    100378: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 1
+    100380: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 2
+    100382: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 3
+    100384: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 4
+    100386: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 5
+    100388: CGM_Monitors_and_Sideboards_Sideboard_Standard
+    100390: CGM_Monitors_and_Sideboards_Sideboard_Standard 1
+    100392: CGM_Monitors_and_Sideboards_Upper_Monitors
+    100394: CGM_Monitors_and_Sideboards_Upper_Monitors 1
+    100396: CGM_Monitors_and_Sideboards_Upper_Monitors 2
+    100398: CGM_Monitors_and_Sideboards_Upper_Monitors 3
+    100400: CGM_Monitors_and_Sideboards_Upper_Monitors 4
+    100402: CGM_Monitors_and_Sideboards_Upper_Monitors 5
+    100404: CGM_Monitors_Lower_Monitors_B6
+    100406: CGM_Monitors_Upper_Monitors_B6
+    100408: CGM_Operator_desk_B6
+    100410: CGM_Tabletop_Components_Brochure_Back
+    100412: CGM_Tabletop_Components_Brochure_SketchUp_Information_
+    100414: CGM_Tabletop_Components_Computer_Mouse
+    100416: CGM_Tabletop_Components_Keyboard
+    100418: group_0
+    100420: ID100
+    100422: ID1005
+    100424: ID1011
+    100426: ID1019
+    100428: ID1025
+    100430: ID1031
+    100432: ID1037
+    100434: ID1043
+    100436: ID1049
+    100438: ID1055
+    100440: ID1061
+    100442: ID1067
+    100444: ID108
+    100446: ID1101
+    100448: ID1101 1
+    100450: ID1115
+    100452: ID1115 1
+    100454: ID114
+    100456: ID120
+    100458: ID128
+    100460: ID134
+    100462: ID148
+    100464: ID154
+    100466: ID160
+    100468: ID17
+    100470: ID176
+    100472: ID192
+    100474: ID207
+    100476: ID213
+    100478: ID266
+    100480: ID266 1
+    100482: ID266 2
+    100484: ID266 3
+    100486: ID266 4
+    100488: ID272
+    100490: ID272 1
+    100492: ID272 2
+    100494: ID272 3
+    100496: ID272 4
+    100498: ID327
+    100500: ID348
+    100502: ID371
+    100504: ID384
+    100506: ID40
+    100508: ID400
+    100510: ID408
+    100512: ID428
+    100514: ID428 1
+    100516: ID434
+    100518: ID434 1
+    100520: ID46
+    100522: ID461
+    100524: ID461 1
+    100526: ID486
+    100528: ID494
+    100530: ID507
+    100532: ID515
+    100534: ID533
+    100536: ID533 1
+    100538: ID533 10
+    100540: ID533 11
+    100542: ID533 12
+    100544: ID533 13
+    100546: ID533 14
+    100548: ID533 15
+    100550: ID533 16
+    100552: ID533 17
+    100554: ID533 18
+    100556: ID533 19
+    100558: ID533 2
+    100560: ID533 20
+    100562: ID533 21
+    100564: ID533 22
+    100566: ID533 23
+    100568: ID533 3
+    100570: ID533 4
+    100572: ID533 5
+    100574: ID533 6
+    100576: ID533 7
+    100578: ID533 8
+    100580: ID533 9
+    100582: ID54
+    100584: ID563
+    100586: ID563 1
+    100588: ID563 2
+    100590: ID563 3
+    100592: ID563 4
+    100594: ID563 5
+    100596: ID569
+    100598: ID569 1
+    100600: ID569 2
+    100602: ID569 3
+    100604: ID569 4
+    100606: ID569 5
+    100608: ID575
+    100610: ID575 1
+    100612: ID575 2
+    100614: ID575 3
+    100616: ID575 4
+    100618: ID575 5
+    100620: ID581
+    100622: ID581 1
+    100624: ID581 2
+    100626: ID581 3
+    100628: ID581 4
+    100630: ID581 5
+    100632: ID60
+    100634: ID606
+    100636: ID606 1
+    100638: ID606 10
+    100640: ID606 11
+    100642: ID606 2
+    100644: ID606 3
+    100646: ID606 4
+    100648: ID606 5
+    100650: ID606 6
+    100652: ID606 7
+    100654: ID606 8
+    100656: ID606 9
+    100658: ID612
+    100660: ID612 1
+    100662: ID612 10
+    100664: ID612 11
+    100666: ID612 2
+    100668: ID612 3
+    100670: ID612 4
+    100672: ID612 5
+    100674: ID612 6
+    100676: ID612 7
+    100678: ID612 8
+    100680: ID612 9
+    100682: ID626
+    100684: ID648
+    100686: ID66
+    100688: ID670
+    100690: ID692
+    100692: ID715
+    100694: ID736
+    100696: ID765
+    100698: ID765 1
+    100700: ID765 2
+    100702: ID765 3
+    100704: ID765 4
+    100706: ID765 5
+    100708: ID781
+    100710: ID781 1
+    100712: ID781 2
+    100714: ID781 3
+    100716: ID781 4
+    100718: ID781 5
+    100720: ID816
+    100722: ID824
+    100724: ID86
+    100726: ID878
+    100728: ID928
+    100730: ID928 1
+    100732: ID928 2
+    100734: ID928 3
+    100736: ID928 4
+    100738: ID928 5
+    100740: ID94
+    100742: ID946
+    100744: ID954
+    100746: ID960
+    100748: ID966
+    100750: ID980
+    100752: ID980 1
+    100754: ID980 2
+    100756: ID980 3
+    100758: ID980 4
+    100760: ID980 5
+    100762: ID980 6
+    100764: instance_0
+    100766: instance_1
+    100768: instance_10
+    100770: instance_100
+    100772: instance_101
+    100774: instance_102
+    100776: instance_103
+    100778: instance_104
+    100780: instance_105
+    100782: instance_106
+    100784: instance_107
+    100786: instance_108
+    100788: instance_109
+    100790: instance_11
+    100792: instance_110
+    100794: instance_111
+    100796: instance_112
+    100798: instance_113
+    100800: instance_114
+    100802: instance_115
+    100804: instance_116
+    100806: instance_117
+    100808: instance_118
+    100810: instance_119
+    100812: instance_12
+    100814: instance_120
+    100816: instance_121
+    100818: instance_122
+    100820: instance_123
+    100822: instance_13
+    100824: instance_14
+    100826: instance_15
+    100828: instance_16
+    100830: instance_17
+    100832: instance_18
+    100834: instance_19
+    100836: instance_2
+    100838: instance_20
+    100840: instance_21
+    100842: instance_22
+    100844: instance_23
+    100846: instance_24
+    100848: instance_25
+    100850: instance_26
+    100852: instance_27
+    100854: instance_28
+    100856: instance_29
+    100858: instance_3
+    100860: instance_30
+    100862: instance_31
+    100864: instance_32
+    100866: instance_33
+    100868: instance_34
+    100870: instance_35
+    100872: instance_36
+    100874: instance_37
+    100876: instance_38
+    100878: instance_39
+    100880: instance_4
+    100882: instance_40
+    100884: instance_41
+    100886: instance_42
+    100888: instance_43
+    100890: instance_44
+    100892: instance_45
+    100894: instance_45 1
+    100896: instance_45 2
+    100898: instance_45 3
+    100900: instance_45 4
+    100902: instance_45 5
+    100904: instance_46
+    100906: instance_46 1
+    100908: instance_46 2
+    100910: instance_46 3
+    100912: instance_46 4
+    100914: instance_46 5
+    100916: instance_47
+    100918: instance_47 1
+    100920: instance_47 2
+    100922: instance_47 3
+    100924: instance_47 4
+    100926: instance_47 5
+    100928: instance_48
+    100930: instance_48 1
+    100932: instance_48 2
+    100934: instance_48 3
+    100936: instance_48 4
+    100938: instance_48 5
+    100940: instance_49
+    100942: instance_49 1
+    100944: instance_49 2
+    100946: instance_49 3
+    100948: instance_49 4
+    100950: instance_49 5
+    100952: instance_5
+    100954: instance_50
+    100956: instance_50 1
+    100958: instance_50 2
+    100960: instance_50 3
+    100962: instance_50 4
+    100964: instance_50 5
+    100966: instance_51
+    100968: instance_51 1
+    100970: instance_51 2
+    100972: instance_51 3
+    100974: instance_51 4
+    100976: instance_51 5
+    100978: instance_52
+    100980: instance_52 1
+    100982: instance_52 2
+    100984: instance_52 3
+    100986: instance_52 4
+    100988: instance_52 5
+    100990: instance_53
+    100992: instance_53 1
+    100994: instance_53 2
+    100996: instance_53 3
+    100998: instance_53 4
+    101000: instance_53 5
+    101002: instance_54
+    101004: instance_55
+    101006: instance_56
+    101008: instance_57
+    101010: instance_58
+    101012: instance_59
+    101014: instance_6
+    101016: instance_60
+    101018: instance_61
+    101020: instance_62
+    101022: instance_63
+    101024: instance_64
+    101026: instance_65
+    101028: instance_66
+    101030: instance_67
+    101032: instance_67 1
+    101034: instance_67 2
+    101036: instance_67 3
+    101038: instance_67 4
+    101040: instance_67 5
+    101042: instance_68
+    101044: instance_68 1
+    101046: instance_68 2
+    101048: instance_68 3
+    101050: instance_68 4
+    101052: instance_68 5
+    101054: instance_69
+    101056: instance_69 1
+    101058: instance_69 2
+    101060: instance_69 3
+    101062: instance_69 4
+    101064: instance_69 5
+    101066: instance_7
+    101068: instance_70
+    101070: instance_70 1
+    101072: instance_70 2
+    101074: instance_70 3
+    101076: instance_70 4
+    101078: instance_70 5
+    101080: instance_71
+    101082: instance_71 1
+    101084: instance_71 2
+    101086: instance_71 3
+    101088: instance_71 4
+    101090: instance_71 5
+    101092: instance_72
+    101094: instance_72 1
+    101096: instance_72 2
+    101098: instance_72 3
+    101100: instance_72 4
+    101102: instance_72 5
+    101104: instance_73
+    101106: instance_73 1
+    101108: instance_73 2
+    101110: instance_73 3
+    101112: instance_73 4
+    101114: instance_73 5
+    101116: instance_74
+    101118: instance_75
+    101120: instance_76
+    101122: instance_77
+    101124: instance_78
+    101126: instance_79
+    101128: instance_8
+    101130: instance_80
+    101132: instance_81
+    101134: instance_82
+    101136: instance_83
+    101138: instance_84
+    101140: instance_85
+    101142: instance_86
+    101144: instance_87
+    101146: instance_88
+    101148: instance_89
+    101150: instance_9
+    101152: instance_90
+    101154: instance_91
+    101156: instance_92
+    101158: instance_93
+    101160: instance_94
+    101162: instance_95
+    101164: instance_96
+    101166: instance_97
+    101168: instance_98
+    101170: instance_99
+    101172: skp_camera_Last_Saved_SketchUp_View
+    400000: //RootNode
+    400002: CGM_Base_table_B6
+    400004: CGM_Base_table_Cabelbox_new
+    400006: CGM_Base_table_Cabelbox_new 1
+    400008: CGM_Base_table_Cabelchain_old
+    400010: CGM_Base_table_Cabelchain_old 1
+    400012: CGM_Base_table_Monitorboard_Arm
+    400014: CGM_Base_table_Monitorboard_Arm 1
+    400016: CGM_Base_table_Monitorboard_B6
+    400018: CGM_Base_table_Monitorboard_Frame_B6
+    400020: CGM_Base_table_Monitorboard_Pillar__1
+    400022: CGM_Base_table_Monitorboard_Pillar__1 1
+    400024: CGM_Base_table_Monitorboard_Pillar__2
+    400026: CGM_Base_table_Monitorboard_Pillar__2 1
+    400028: CGM_Base_table_Pillar
+    400030: CGM_Base_table_Pillar 1
+    400032: CGM_Base_table_Pillar 2
+    400034: CGM_Base_table_Pillar 3
+    400036: CGM_Base_table_Pillar 4
+    400038: CGM_Base_table_Pillar_Distance
+    400040: CGM_Base_table_Pillar_Distance 1
+    400042: CGM_Base_table_Pillar_Foot
+    400044: CGM_Base_table_Pillar_Foot 1
+    400046: CGM_Base_table_Pillar_with_CGM_Loggo
+    400048: CGM_Base_table_Skirt_A
+    400050: CGM_Base_table_Skirt_A 1
+    400052: CGM_Base_table_Skirt_A 2
+    400054: CGM_Base_table_Skirt_A 3
+    400056: CGM_Base_table_Skirt_A 4
+    400058: CGM_Base_table_Skirt_A 5
+    400060: CGM_Base_table_Skirt_A_Holder
+    400062: CGM_Base_table_Skirt_A_Holder 1
+    400064: CGM_Base_table_Skirt_A_Holder 2
+    400066: CGM_Base_table_Skirt_A_Holder 3
+    400068: CGM_Base_table_Skirt_A_Holder 4
+    400070: CGM_Base_table_Skirt_A_Holder 5
+    400072: CGM_Base_table_Skirt_A_Holder 6
+    400074: CGM_Base_table_Technical_Shelf_1400
+    400076: CGM_Base_table_Topboard_B6
+    400078: CGM_Base_table_Topboard_Frame_B6
+    400080: CGM_Chair_Armrest
+    400082: CGM_Chair_Armrest 1
+    400084: CGM_Chair_Armrest_Holder
+    400086: CGM_Chair_Armrest_Holder 1
+    400088: CGM_Chair_Backrest
+    400090: CGM_Chair_Focoo
+    400092: CGM_Chair_Headrest
+    400094: CGM_Chair_Hydraluics__2
+    400096: CGM_Chair_Hydraulics__1
+    400098: CGM_Chair_Hydraulics__1 1
+    400100: CGM_Chair_Seat
+    400102: CGM_Chair_Seat_Frame
+    400104: CGM_Chair_Wheel
+    400106: CGM_Chair_Wheel 1
+    400108: CGM_Chair_Wheel 2
+    400110: CGM_Chair_Wheel 3
+    400112: CGM_Chair_Wheel 4
+    400114: CGM_Chair_Wheel_Arm
+    400116: CGM_Chair_Wheel_Arm 1
+    400118: CGM_Chair_Wheel_Arm 2
+    400120: CGM_Chair_Wheel_Arm 3
+    400122: CGM_Chair_Wheel_Arm 4
+    400124: CGM_Chair_Wheel_Holder
+    400126: CGM_Chair_Wheel_Holder 1
+    400128: CGM_Chair_Wheel_Holder 2
+    400130: CGM_Chair_Wheel_Holder 3
+    400132: CGM_Chair_Wheel_Holder 4
+    400134: CGM_LED_Lamp_with_Sound_Shower
+    400136: CGM_Lighing_arm_DSLX
+    400138: CGM_Lighing_arm_DSLX 1
+    400140: CGM_Monitors_and_Sideboards_Lamp_Holder
+    400142: CGM_Monitors_and_Sideboards_Lamp_Holder 1
+    400144: CGM_Monitors_and_Sideboards_Lamp_Holder2
+    400146: CGM_Monitors_and_Sideboards_Lamp_Holder2 1
+    400148: CGM_Monitors_and_Sideboards_LED_Lamp_Armature
+    400150: CGM_Monitors_and_Sideboards_LED_Lamp_Armature 1
+    400152: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides
+    400154: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides 1
+    400156: CGM_Monitors_and_Sideboards_LED_Lamp_Sound_Shower_and_Technology
+    400158: CGM_Monitors_and_Sideboards_Lighting_1560
+    400160: CGM_Monitors_and_Sideboards_Lower_Monitors
+    400162: CGM_Monitors_and_Sideboards_Lower_Monitors 1
+    400164: CGM_Monitors_and_Sideboards_Lower_Monitors 2
+    400166: CGM_Monitors_and_Sideboards_Lower_Monitors 3
+    400168: CGM_Monitors_and_Sideboards_Lower_Monitors 4
+    400170: CGM_Monitors_and_Sideboards_Lower_Monitors 5
+    400172: CGM_Monitors_and_Sideboards_Monitor
+    400174: CGM_Monitors_and_Sideboards_Monitor 1
+    400176: CGM_Monitors_and_Sideboards_Monitor 10
+    400178: CGM_Monitors_and_Sideboards_Monitor 11
+    400180: CGM_Monitors_and_Sideboards_Monitor 2
+    400182: CGM_Monitors_and_Sideboards_Monitor 3
+    400184: CGM_Monitors_and_Sideboards_Monitor 4
+    400186: CGM_Monitors_and_Sideboards_Monitor 5
+    400188: CGM_Monitors_and_Sideboards_Monitor 6
+    400190: CGM_Monitors_and_Sideboards_Monitor 7
+    400192: CGM_Monitors_and_Sideboards_Monitor 8
+    400194: CGM_Monitors_and_Sideboards_Monitor 9
+    400196: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L
+    400198: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 1
+    400200: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 2
+    400202: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 3
+    400204: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 4
+    400206: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 5
+    400208: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1
+    400210: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 1
+    400212: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 2
+    400214: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 3
+    400216: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 4
+    400218: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 5
+    400220: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2
+    400222: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 1
+    400224: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 10
+    400226: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 11
+    400228: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 12
+    400230: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 13
+    400232: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 14
+    400234: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 15
+    400236: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 16
+    400238: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 17
+    400240: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 18
+    400242: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 19
+    400244: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 2
+    400246: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 20
+    400248: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 21
+    400250: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 22
+    400252: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 23
+    400254: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 3
+    400256: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 4
+    400258: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 5
+    400260: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 6
+    400262: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 7
+    400264: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 8
+    400266: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 9
+    400268: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3
+    400270: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 1
+    400272: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 10
+    400274: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 11
+    400276: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 12
+    400278: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 13
+    400280: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 14
+    400282: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 15
+    400284: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 16
+    400286: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 17
+    400288: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 18
+    400290: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 19
+    400292: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 2
+    400294: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 20
+    400296: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 21
+    400298: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 22
+    400300: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 23
+    400302: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 3
+    400304: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 4
+    400306: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 5
+    400308: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 6
+    400310: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 7
+    400312: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 8
+    400314: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 9
+    400316: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4
+    400318: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 1
+    400320: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 10
+    400322: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 11
+    400324: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 2
+    400326: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 3
+    400328: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 4
+    400330: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 5
+    400332: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 6
+    400334: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 7
+    400336: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 8
+    400338: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 9
+    400340: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw
+    400342: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 1
+    400344: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 10
+    400346: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 11
+    400348: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 2
+    400350: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 3
+    400352: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 4
+    400354: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 5
+    400356: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 6
+    400358: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 7
+    400360: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 8
+    400362: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 9
+    400364: CGM_Monitors_and_Sideboards_Screen_B_1
+    400366: CGM_Monitors_and_Sideboards_Screen_B_2
+    400368: CGM_Monitors_and_Sideboards_Screen_B_3
+    400370: CGM_Monitors_and_Sideboards_Screen_B_4
+    400372: CGM_Monitors_and_Sideboards_Screen_B_5
+    400374: CGM_Monitors_and_Sideboards_Screen_B_6
+    400376: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor
+    400378: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 1
+    400380: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 2
+    400382: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 3
+    400384: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 4
+    400386: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 5
+    400388: CGM_Monitors_and_Sideboards_Sideboard_Standard
+    400390: CGM_Monitors_and_Sideboards_Sideboard_Standard 1
+    400392: CGM_Monitors_and_Sideboards_Upper_Monitors
+    400394: CGM_Monitors_and_Sideboards_Upper_Monitors 1
+    400396: CGM_Monitors_and_Sideboards_Upper_Monitors 2
+    400398: CGM_Monitors_and_Sideboards_Upper_Monitors 3
+    400400: CGM_Monitors_and_Sideboards_Upper_Monitors 4
+    400402: CGM_Monitors_and_Sideboards_Upper_Monitors 5
+    400404: CGM_Monitors_Lower_Monitors_B6
+    400406: CGM_Monitors_Upper_Monitors_B6
+    400408: CGM_Operator_desk_B6
+    400410: CGM_Tabletop_Components_Brochure_Back
+    400412: CGM_Tabletop_Components_Brochure_SketchUp_Information_
+    400414: CGM_Tabletop_Components_Computer_Mouse
+    400416: CGM_Tabletop_Components_Keyboard
+    400418: group_0
+    400420: ID100
+    400422: ID1005
+    400424: ID1011
+    400426: ID1019
+    400428: ID1025
+    400430: ID1031
+    400432: ID1037
+    400434: ID1043
+    400436: ID1049
+    400438: ID1055
+    400440: ID1061
+    400442: ID1067
+    400444: ID108
+    400446: ID1101
+    400448: ID1101 1
+    400450: ID1115
+    400452: ID1115 1
+    400454: ID114
+    400456: ID120
+    400458: ID128
+    400460: ID134
+    400462: ID148
+    400464: ID154
+    400466: ID160
+    400468: ID17
+    400470: ID176
+    400472: ID192
+    400474: ID207
+    400476: ID213
+    400478: ID266
+    400480: ID266 1
+    400482: ID266 2
+    400484: ID266 3
+    400486: ID266 4
+    400488: ID272
+    400490: ID272 1
+    400492: ID272 2
+    400494: ID272 3
+    400496: ID272 4
+    400498: ID327
+    400500: ID348
+    400502: ID371
+    400504: ID384
+    400506: ID40
+    400508: ID400
+    400510: ID408
+    400512: ID428
+    400514: ID428 1
+    400516: ID434
+    400518: ID434 1
+    400520: ID46
+    400522: ID461
+    400524: ID461 1
+    400526: ID486
+    400528: ID494
+    400530: ID507
+    400532: ID515
+    400534: ID533
+    400536: ID533 1
+    400538: ID533 10
+    400540: ID533 11
+    400542: ID533 12
+    400544: ID533 13
+    400546: ID533 14
+    400548: ID533 15
+    400550: ID533 16
+    400552: ID533 17
+    400554: ID533 18
+    400556: ID533 19
+    400558: ID533 2
+    400560: ID533 20
+    400562: ID533 21
+    400564: ID533 22
+    400566: ID533 23
+    400568: ID533 3
+    400570: ID533 4
+    400572: ID533 5
+    400574: ID533 6
+    400576: ID533 7
+    400578: ID533 8
+    400580: ID533 9
+    400582: ID54
+    400584: ID563
+    400586: ID563 1
+    400588: ID563 2
+    400590: ID563 3
+    400592: ID563 4
+    400594: ID563 5
+    400596: ID569
+    400598: ID569 1
+    400600: ID569 2
+    400602: ID569 3
+    400604: ID569 4
+    400606: ID569 5
+    400608: ID575
+    400610: ID575 1
+    400612: ID575 2
+    400614: ID575 3
+    400616: ID575 4
+    400618: ID575 5
+    400620: ID581
+    400622: ID581 1
+    400624: ID581 2
+    400626: ID581 3
+    400628: ID581 4
+    400630: ID581 5
+    400632: ID60
+    400634: ID606
+    400636: ID606 1
+    400638: ID606 10
+    400640: ID606 11
+    400642: ID606 2
+    400644: ID606 3
+    400646: ID606 4
+    400648: ID606 5
+    400650: ID606 6
+    400652: ID606 7
+    400654: ID606 8
+    400656: ID606 9
+    400658: ID612
+    400660: ID612 1
+    400662: ID612 10
+    400664: ID612 11
+    400666: ID612 2
+    400668: ID612 3
+    400670: ID612 4
+    400672: ID612 5
+    400674: ID612 6
+    400676: ID612 7
+    400678: ID612 8
+    400680: ID612 9
+    400682: ID626
+    400684: ID648
+    400686: ID66
+    400688: ID670
+    400690: ID692
+    400692: ID715
+    400694: ID736
+    400696: ID765
+    400698: ID765 1
+    400700: ID765 2
+    400702: ID765 3
+    400704: ID765 4
+    400706: ID765 5
+    400708: ID781
+    400710: ID781 1
+    400712: ID781 2
+    400714: ID781 3
+    400716: ID781 4
+    400718: ID781 5
+    400720: ID816
+    400722: ID824
+    400724: ID86
+    400726: ID878
+    400728: ID928
+    400730: ID928 1
+    400732: ID928 2
+    400734: ID928 3
+    400736: ID928 4
+    400738: ID928 5
+    400740: ID94
+    400742: ID946
+    400744: ID954
+    400746: ID960
+    400748: ID966
+    400750: ID980
+    400752: ID980 1
+    400754: ID980 2
+    400756: ID980 3
+    400758: ID980 4
+    400760: ID980 5
+    400762: ID980 6
+    400764: instance_0
+    400766: instance_1
+    400768: instance_10
+    400770: instance_100
+    400772: instance_101
+    400774: instance_102
+    400776: instance_103
+    400778: instance_104
+    400780: instance_105
+    400782: instance_106
+    400784: instance_107
+    400786: instance_108
+    400788: instance_109
+    400790: instance_11
+    400792: instance_110
+    400794: instance_111
+    400796: instance_112
+    400798: instance_113
+    400800: instance_114
+    400802: instance_115
+    400804: instance_116
+    400806: instance_117
+    400808: instance_118
+    400810: instance_119
+    400812: instance_12
+    400814: instance_120
+    400816: instance_121
+    400818: instance_122
+    400820: instance_123
+    400822: instance_13
+    400824: instance_14
+    400826: instance_15
+    400828: instance_16
+    400830: instance_17
+    400832: instance_18
+    400834: instance_19
+    400836: instance_2
+    400838: instance_20
+    400840: instance_21
+    400842: instance_22
+    400844: instance_23
+    400846: instance_24
+    400848: instance_25
+    400850: instance_26
+    400852: instance_27
+    400854: instance_28
+    400856: instance_29
+    400858: instance_3
+    400860: instance_30
+    400862: instance_31
+    400864: instance_32
+    400866: instance_33
+    400868: instance_34
+    400870: instance_35
+    400872: instance_36
+    400874: instance_37
+    400876: instance_38
+    400878: instance_39
+    400880: instance_4
+    400882: instance_40
+    400884: instance_41
+    400886: instance_42
+    400888: instance_43
+    400890: instance_44
+    400892: instance_45
+    400894: instance_45 1
+    400896: instance_45 2
+    400898: instance_45 3
+    400900: instance_45 4
+    400902: instance_45 5
+    400904: instance_46
+    400906: instance_46 1
+    400908: instance_46 2
+    400910: instance_46 3
+    400912: instance_46 4
+    400914: instance_46 5
+    400916: instance_47
+    400918: instance_47 1
+    400920: instance_47 2
+    400922: instance_47 3
+    400924: instance_47 4
+    400926: instance_47 5
+    400928: instance_48
+    400930: instance_48 1
+    400932: instance_48 2
+    400934: instance_48 3
+    400936: instance_48 4
+    400938: instance_48 5
+    400940: instance_49
+    400942: instance_49 1
+    400944: instance_49 2
+    400946: instance_49 3
+    400948: instance_49 4
+    400950: instance_49 5
+    400952: instance_5
+    400954: instance_50
+    400956: instance_50 1
+    400958: instance_50 2
+    400960: instance_50 3
+    400962: instance_50 4
+    400964: instance_50 5
+    400966: instance_51
+    400968: instance_51 1
+    400970: instance_51 2
+    400972: instance_51 3
+    400974: instance_51 4
+    400976: instance_51 5
+    400978: instance_52
+    400980: instance_52 1
+    400982: instance_52 2
+    400984: instance_52 3
+    400986: instance_52 4
+    400988: instance_52 5
+    400990: instance_53
+    400992: instance_53 1
+    400994: instance_53 2
+    400996: instance_53 3
+    400998: instance_53 4
+    401000: instance_53 5
+    401002: instance_54
+    401004: instance_55
+    401006: instance_56
+    401008: instance_57
+    401010: instance_58
+    401012: instance_59
+    401014: instance_6
+    401016: instance_60
+    401018: instance_61
+    401020: instance_62
+    401022: instance_63
+    401024: instance_64
+    401026: instance_65
+    401028: instance_66
+    401030: instance_67
+    401032: instance_67 1
+    401034: instance_67 2
+    401036: instance_67 3
+    401038: instance_67 4
+    401040: instance_67 5
+    401042: instance_68
+    401044: instance_68 1
+    401046: instance_68 2
+    401048: instance_68 3
+    401050: instance_68 4
+    401052: instance_68 5
+    401054: instance_69
+    401056: instance_69 1
+    401058: instance_69 2
+    401060: instance_69 3
+    401062: instance_69 4
+    401064: instance_69 5
+    401066: instance_7
+    401068: instance_70
+    401070: instance_70 1
+    401072: instance_70 2
+    401074: instance_70 3
+    401076: instance_70 4
+    401078: instance_70 5
+    401080: instance_71
+    401082: instance_71 1
+    401084: instance_71 2
+    401086: instance_71 3
+    401088: instance_71 4
+    401090: instance_71 5
+    401092: instance_72
+    401094: instance_72 1
+    401096: instance_72 2
+    401098: instance_72 3
+    401100: instance_72 4
+    401102: instance_72 5
+    401104: instance_73
+    401106: instance_73 1
+    401108: instance_73 2
+    401110: instance_73 3
+    401112: instance_73 4
+    401114: instance_73 5
+    401116: instance_74
+    401118: instance_75
+    401120: instance_76
+    401122: instance_77
+    401124: instance_78
+    401126: instance_79
+    401128: instance_8
+    401130: instance_80
+    401132: instance_81
+    401134: instance_82
+    401136: instance_83
+    401138: instance_84
+    401140: instance_85
+    401142: instance_86
+    401144: instance_87
+    401146: instance_88
+    401148: instance_89
+    401150: instance_9
+    401152: instance_90
+    401154: instance_91
+    401156: instance_92
+    401158: instance_93
+    401160: instance_94
+    401162: instance_95
+    401164: instance_96
+    401166: instance_97
+    401168: instance_98
+    401170: instance_99
+    401172: skp_camera_Last_Saved_SketchUp_View
+    2300000: CGM_Base_table_Cabelbox_new
+    2300002: CGM_Base_table_Cabelbox_new 1
+    2300004: CGM_Base_table_Cabelchain_old
+    2300006: CGM_Base_table_Cabelchain_old 1
+    2300008: CGM_Base_table_Monitorboard_Arm
+    2300010: CGM_Base_table_Monitorboard_Arm 1
+    2300012: CGM_Base_table_Monitorboard_B6
+    2300014: CGM_Base_table_Monitorboard_Frame_B6
+    2300016: CGM_Base_table_Monitorboard_Pillar__1
+    2300018: CGM_Base_table_Monitorboard_Pillar__1 1
+    2300020: CGM_Base_table_Monitorboard_Pillar__2
+    2300022: CGM_Base_table_Monitorboard_Pillar__2 1
+    2300024: CGM_Base_table_Pillar
+    2300026: CGM_Base_table_Pillar 1
+    2300028: CGM_Base_table_Pillar 2
+    2300030: CGM_Base_table_Pillar 3
+    2300032: CGM_Base_table_Pillar 4
+    2300034: CGM_Base_table_Pillar_Distance
+    2300036: CGM_Base_table_Pillar_Distance 1
+    2300038: CGM_Base_table_Pillar_Foot
+    2300040: CGM_Base_table_Pillar_Foot 1
+    2300042: CGM_Base_table_Pillar_with_CGM_Loggo
+    2300044: CGM_Base_table_Skirt_A
+    2300046: CGM_Base_table_Skirt_A 1
+    2300048: CGM_Base_table_Skirt_A 2
+    2300050: CGM_Base_table_Skirt_A 3
+    2300052: CGM_Base_table_Skirt_A 4
+    2300054: CGM_Base_table_Skirt_A 5
+    2300056: CGM_Base_table_Skirt_A_Holder
+    2300058: CGM_Base_table_Skirt_A_Holder 1
+    2300060: CGM_Base_table_Skirt_A_Holder 2
+    2300062: CGM_Base_table_Skirt_A_Holder 3
+    2300064: CGM_Base_table_Skirt_A_Holder 4
+    2300066: CGM_Base_table_Skirt_A_Holder 5
+    2300068: CGM_Base_table_Skirt_A_Holder 6
+    2300070: CGM_Base_table_Technical_Shelf_1400
+    2300072: CGM_Base_table_Topboard_B6
+    2300074: CGM_Base_table_Topboard_Frame_B6
+    2300076: CGM_Chair_Armrest
+    2300078: CGM_Chair_Armrest 1
+    2300080: CGM_Chair_Armrest_Holder
+    2300082: CGM_Chair_Armrest_Holder 1
+    2300084: CGM_Chair_Backrest
+    2300086: CGM_Chair_Headrest
+    2300088: CGM_Chair_Hydraluics__2
+    2300090: CGM_Chair_Hydraulics__1
+    2300092: CGM_Chair_Hydraulics__1 1
+    2300094: CGM_Chair_Seat
+    2300096: CGM_Chair_Seat_Frame
+    2300098: CGM_Chair_Wheel
+    2300100: CGM_Chair_Wheel 1
+    2300102: CGM_Chair_Wheel 2
+    2300104: CGM_Chair_Wheel 3
+    2300106: CGM_Chair_Wheel 4
+    2300108: CGM_Chair_Wheel_Arm
+    2300110: CGM_Chair_Wheel_Arm 1
+    2300112: CGM_Chair_Wheel_Arm 2
+    2300114: CGM_Chair_Wheel_Arm 3
+    2300116: CGM_Chair_Wheel_Arm 4
+    2300118: CGM_Chair_Wheel_Holder
+    2300120: CGM_Chair_Wheel_Holder 1
+    2300122: CGM_Chair_Wheel_Holder 2
+    2300124: CGM_Chair_Wheel_Holder 3
+    2300126: CGM_Chair_Wheel_Holder 4
+    2300128: CGM_Monitors_and_Sideboards_Lamp_Holder2
+    2300130: CGM_Monitors_and_Sideboards_Lamp_Holder2 1
+    2300132: CGM_Monitors_and_Sideboards_LED_Lamp_Armature
+    2300134: CGM_Monitors_and_Sideboards_LED_Lamp_Armature 1
+    2300136: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides
+    2300138: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides 1
+    2300140: CGM_Monitors_and_Sideboards_LED_Lamp_Sound_Shower_and_Technology
+    2300142: CGM_Monitors_and_Sideboards_Monitor
+    2300144: CGM_Monitors_and_Sideboards_Monitor 1
+    2300146: CGM_Monitors_and_Sideboards_Monitor 10
+    2300148: CGM_Monitors_and_Sideboards_Monitor 11
+    2300150: CGM_Monitors_and_Sideboards_Monitor 2
+    2300152: CGM_Monitors_and_Sideboards_Monitor 3
+    2300154: CGM_Monitors_and_Sideboards_Monitor 4
+    2300156: CGM_Monitors_and_Sideboards_Monitor 5
+    2300158: CGM_Monitors_and_Sideboards_Monitor 6
+    2300160: CGM_Monitors_and_Sideboards_Monitor 7
+    2300162: CGM_Monitors_and_Sideboards_Monitor 8
+    2300164: CGM_Monitors_and_Sideboards_Monitor 9
+    2300166: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L
+    2300168: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 1
+    2300170: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 2
+    2300172: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 3
+    2300174: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 4
+    2300176: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 5
+    2300178: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1
+    2300180: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 1
+    2300182: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 2
+    2300184: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 3
+    2300186: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 4
+    2300188: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 5
+    2300190: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2
+    2300192: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 1
+    2300194: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 10
+    2300196: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 11
+    2300198: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 12
+    2300200: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 13
+    2300202: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 14
+    2300204: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 15
+    2300206: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 16
+    2300208: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 17
+    2300210: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 18
+    2300212: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 19
+    2300214: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 2
+    2300216: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 20
+    2300218: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 21
+    2300220: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 22
+    2300222: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 23
+    2300224: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 3
+    2300226: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 4
+    2300228: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 5
+    2300230: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 6
+    2300232: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 7
+    2300234: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 8
+    2300236: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 9
+    2300238: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3
+    2300240: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 1
+    2300242: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 10
+    2300244: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 11
+    2300246: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 12
+    2300248: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 13
+    2300250: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 14
+    2300252: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 15
+    2300254: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 16
+    2300256: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 17
+    2300258: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 18
+    2300260: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 19
+    2300262: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 2
+    2300264: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 20
+    2300266: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 21
+    2300268: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 22
+    2300270: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 23
+    2300272: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 3
+    2300274: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 4
+    2300276: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 5
+    2300278: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 6
+    2300280: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 7
+    2300282: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 8
+    2300284: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 9
+    2300286: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4
+    2300288: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 1
+    2300290: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 10
+    2300292: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 11
+    2300294: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 2
+    2300296: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 3
+    2300298: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 4
+    2300300: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 5
+    2300302: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 6
+    2300304: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 7
+    2300306: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 8
+    2300308: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 9
+    2300310: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw
+    2300312: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 1
+    2300314: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 10
+    2300316: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 11
+    2300318: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 2
+    2300320: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 3
+    2300322: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 4
+    2300324: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 5
+    2300326: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 6
+    2300328: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 7
+    2300330: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 8
+    2300332: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 9
+    2300334: CGM_Monitors_and_Sideboards_Screen_B_1
+    2300336: CGM_Monitors_and_Sideboards_Screen_B_2
+    2300338: CGM_Monitors_and_Sideboards_Screen_B_3
+    2300340: CGM_Monitors_and_Sideboards_Screen_B_4
+    2300342: CGM_Monitors_and_Sideboards_Screen_B_5
+    2300344: CGM_Monitors_and_Sideboards_Screen_B_6
+    2300346: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor
+    2300348: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 1
+    2300350: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 2
+    2300352: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 3
+    2300354: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 4
+    2300356: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 5
+    2300358: CGM_Monitors_and_Sideboards_Sideboard_Standard
+    2300360: CGM_Monitors_and_Sideboards_Sideboard_Standard 1
+    2300362: CGM_Tabletop_Components_Brochure_Back
+    2300364: CGM_Tabletop_Components_Brochure_SketchUp_Information_
+    2300366: CGM_Tabletop_Components_Computer_Mouse
+    2300368: CGM_Tabletop_Components_Keyboard
+    2300370: group_0
+    2300372: ID100
+    2300374: ID1005
+    2300376: ID1011
+    2300378: ID1019
+    2300380: ID1025
+    2300382: ID1031
+    2300384: ID1037
+    2300386: ID1043
+    2300388: ID1049
+    2300390: ID1055
+    2300392: ID1061
+    2300394: ID1067
+    2300396: ID108
+    2300398: ID1101
+    2300400: ID1101 1
+    2300402: ID1115
+    2300404: ID1115 1
+    2300406: ID114
+    2300408: ID120
+    2300410: ID128
+    2300412: ID134
+    2300414: ID148
+    2300416: ID154
+    2300418: ID160
+    2300420: ID17
+    2300422: ID176
+    2300424: ID192
+    2300426: ID207
+    2300428: ID213
+    2300430: ID266
+    2300432: ID266 1
+    2300434: ID266 2
+    2300436: ID266 3
+    2300438: ID266 4
+    2300440: ID272
+    2300442: ID272 1
+    2300444: ID272 2
+    2300446: ID272 3
+    2300448: ID272 4
+    2300450: ID327
+    2300452: ID348
+    2300454: ID371
+    2300456: ID384
+    2300458: ID40
+    2300460: ID400
+    2300462: ID408
+    2300464: ID428
+    2300466: ID428 1
+    2300468: ID434
+    2300470: ID434 1
+    2300472: ID46
+    2300474: ID461
+    2300476: ID461 1
+    2300478: ID486
+    2300480: ID494
+    2300482: ID507
+    2300484: ID515
+    2300486: ID533
+    2300488: ID533 1
+    2300490: ID533 10
+    2300492: ID533 11
+    2300494: ID533 12
+    2300496: ID533 13
+    2300498: ID533 14
+    2300500: ID533 15
+    2300502: ID533 16
+    2300504: ID533 17
+    2300506: ID533 18
+    2300508: ID533 19
+    2300510: ID533 2
+    2300512: ID533 20
+    2300514: ID533 21
+    2300516: ID533 22
+    2300518: ID533 23
+    2300520: ID533 3
+    2300522: ID533 4
+    2300524: ID533 5
+    2300526: ID533 6
+    2300528: ID533 7
+    2300530: ID533 8
+    2300532: ID533 9
+    2300534: ID54
+    2300536: ID563
+    2300538: ID563 1
+    2300540: ID563 2
+    2300542: ID563 3
+    2300544: ID563 4
+    2300546: ID563 5
+    2300548: ID569
+    2300550: ID569 1
+    2300552: ID569 2
+    2300554: ID569 3
+    2300556: ID569 4
+    2300558: ID569 5
+    2300560: ID575
+    2300562: ID575 1
+    2300564: ID575 2
+    2300566: ID575 3
+    2300568: ID575 4
+    2300570: ID575 5
+    2300572: ID581
+    2300574: ID581 1
+    2300576: ID581 2
+    2300578: ID581 3
+    2300580: ID581 4
+    2300582: ID581 5
+    2300584: ID60
+    2300586: ID606
+    2300588: ID606 1
+    2300590: ID606 10
+    2300592: ID606 11
+    2300594: ID606 2
+    2300596: ID606 3
+    2300598: ID606 4
+    2300600: ID606 5
+    2300602: ID606 6
+    2300604: ID606 7
+    2300606: ID606 8
+    2300608: ID606 9
+    2300610: ID612
+    2300612: ID612 1
+    2300614: ID612 10
+    2300616: ID612 11
+    2300618: ID612 2
+    2300620: ID612 3
+    2300622: ID612 4
+    2300624: ID612 5
+    2300626: ID612 6
+    2300628: ID612 7
+    2300630: ID612 8
+    2300632: ID612 9
+    2300634: ID626
+    2300636: ID648
+    2300638: ID66
+    2300640: ID670
+    2300642: ID692
+    2300644: ID715
+    2300646: ID736
+    2300648: ID765
+    2300650: ID765 1
+    2300652: ID765 2
+    2300654: ID765 3
+    2300656: ID765 4
+    2300658: ID765 5
+    2300660: ID781
+    2300662: ID781 1
+    2300664: ID781 2
+    2300666: ID781 3
+    2300668: ID781 4
+    2300670: ID781 5
+    2300672: ID816
+    2300674: ID824
+    2300676: ID86
+    2300678: ID878
+    2300680: ID928
+    2300682: ID928 1
+    2300684: ID928 2
+    2300686: ID928 3
+    2300688: ID928 4
+    2300690: ID928 5
+    2300692: ID94
+    2300694: ID946
+    2300696: ID954
+    2300698: ID960
+    2300700: ID966
+    2300702: ID980
+    2300704: ID980 1
+    2300706: ID980 2
+    2300708: ID980 3
+    2300710: ID980 4
+    2300712: ID980 5
+    2300714: ID980 6
+    3300000: CGM_Base_table_Cabelbox_new
+    3300002: CGM_Base_table_Cabelbox_new 1
+    3300004: CGM_Base_table_Cabelchain_old
+    3300006: CGM_Base_table_Cabelchain_old 1
+    3300008: CGM_Base_table_Monitorboard_Arm
+    3300010: CGM_Base_table_Monitorboard_Arm 1
+    3300012: CGM_Base_table_Monitorboard_B6
+    3300014: CGM_Base_table_Monitorboard_Frame_B6
+    3300016: CGM_Base_table_Monitorboard_Pillar__1
+    3300018: CGM_Base_table_Monitorboard_Pillar__1 1
+    3300020: CGM_Base_table_Monitorboard_Pillar__2
+    3300022: CGM_Base_table_Monitorboard_Pillar__2 1
+    3300024: CGM_Base_table_Pillar
+    3300026: CGM_Base_table_Pillar 1
+    3300028: CGM_Base_table_Pillar 2
+    3300030: CGM_Base_table_Pillar 3
+    3300032: CGM_Base_table_Pillar 4
+    3300034: CGM_Base_table_Pillar_Distance
+    3300036: CGM_Base_table_Pillar_Distance 1
+    3300038: CGM_Base_table_Pillar_Foot
+    3300040: CGM_Base_table_Pillar_Foot 1
+    3300042: CGM_Base_table_Pillar_with_CGM_Loggo
+    3300044: CGM_Base_table_Skirt_A
+    3300046: CGM_Base_table_Skirt_A 1
+    3300048: CGM_Base_table_Skirt_A 2
+    3300050: CGM_Base_table_Skirt_A 3
+    3300052: CGM_Base_table_Skirt_A 4
+    3300054: CGM_Base_table_Skirt_A 5
+    3300056: CGM_Base_table_Skirt_A_Holder
+    3300058: CGM_Base_table_Skirt_A_Holder 1
+    3300060: CGM_Base_table_Skirt_A_Holder 2
+    3300062: CGM_Base_table_Skirt_A_Holder 3
+    3300064: CGM_Base_table_Skirt_A_Holder 4
+    3300066: CGM_Base_table_Skirt_A_Holder 5
+    3300068: CGM_Base_table_Skirt_A_Holder 6
+    3300070: CGM_Base_table_Technical_Shelf_1400
+    3300072: CGM_Base_table_Topboard_B6
+    3300074: CGM_Base_table_Topboard_Frame_B6
+    3300076: CGM_Chair_Armrest
+    3300078: CGM_Chair_Armrest 1
+    3300080: CGM_Chair_Armrest_Holder
+    3300082: CGM_Chair_Armrest_Holder 1
+    3300084: CGM_Chair_Backrest
+    3300086: CGM_Chair_Headrest
+    3300088: CGM_Chair_Hydraluics__2
+    3300090: CGM_Chair_Hydraulics__1
+    3300092: CGM_Chair_Hydraulics__1 1
+    3300094: CGM_Chair_Seat
+    3300096: CGM_Chair_Seat_Frame
+    3300098: CGM_Chair_Wheel
+    3300100: CGM_Chair_Wheel 1
+    3300102: CGM_Chair_Wheel 2
+    3300104: CGM_Chair_Wheel 3
+    3300106: CGM_Chair_Wheel 4
+    3300108: CGM_Chair_Wheel_Arm
+    3300110: CGM_Chair_Wheel_Arm 1
+    3300112: CGM_Chair_Wheel_Arm 2
+    3300114: CGM_Chair_Wheel_Arm 3
+    3300116: CGM_Chair_Wheel_Arm 4
+    3300118: CGM_Chair_Wheel_Holder
+    3300120: CGM_Chair_Wheel_Holder 1
+    3300122: CGM_Chair_Wheel_Holder 2
+    3300124: CGM_Chair_Wheel_Holder 3
+    3300126: CGM_Chair_Wheel_Holder 4
+    3300128: CGM_Monitors_and_Sideboards_Lamp_Holder2
+    3300130: CGM_Monitors_and_Sideboards_Lamp_Holder2 1
+    3300132: CGM_Monitors_and_Sideboards_LED_Lamp_Armature
+    3300134: CGM_Monitors_and_Sideboards_LED_Lamp_Armature 1
+    3300136: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides
+    3300138: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides 1
+    3300140: CGM_Monitors_and_Sideboards_LED_Lamp_Sound_Shower_and_Technology
+    3300142: CGM_Monitors_and_Sideboards_Monitor
+    3300144: CGM_Monitors_and_Sideboards_Monitor 1
+    3300146: CGM_Monitors_and_Sideboards_Monitor 10
+    3300148: CGM_Monitors_and_Sideboards_Monitor 11
+    3300150: CGM_Monitors_and_Sideboards_Monitor 2
+    3300152: CGM_Monitors_and_Sideboards_Monitor 3
+    3300154: CGM_Monitors_and_Sideboards_Monitor 4
+    3300156: CGM_Monitors_and_Sideboards_Monitor 5
+    3300158: CGM_Monitors_and_Sideboards_Monitor 6
+    3300160: CGM_Monitors_and_Sideboards_Monitor 7
+    3300162: CGM_Monitors_and_Sideboards_Monitor 8
+    3300164: CGM_Monitors_and_Sideboards_Monitor 9
+    3300166: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L
+    3300168: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 1
+    3300170: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 2
+    3300172: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 3
+    3300174: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 4
+    3300176: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L 5
+    3300178: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1
+    3300180: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 1
+    3300182: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 2
+    3300184: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 3
+    3300186: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 4
+    3300188: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1 5
+    3300190: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2
+    3300192: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 1
+    3300194: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 10
+    3300196: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 11
+    3300198: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 12
+    3300200: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 13
+    3300202: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 14
+    3300204: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 15
+    3300206: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 16
+    3300208: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 17
+    3300210: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 18
+    3300212: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 19
+    3300214: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 2
+    3300216: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 20
+    3300218: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 21
+    3300220: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 22
+    3300222: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 23
+    3300224: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 3
+    3300226: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 4
+    3300228: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 5
+    3300230: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 6
+    3300232: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 7
+    3300234: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 8
+    3300236: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2 9
+    3300238: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3
+    3300240: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 1
+    3300242: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 10
+    3300244: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 11
+    3300246: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 12
+    3300248: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 13
+    3300250: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 14
+    3300252: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 15
+    3300254: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 16
+    3300256: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 17
+    3300258: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 18
+    3300260: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 19
+    3300262: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 2
+    3300264: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 20
+    3300266: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 21
+    3300268: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 22
+    3300270: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 23
+    3300272: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 3
+    3300274: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 4
+    3300276: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 5
+    3300278: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 6
+    3300280: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 7
+    3300282: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 8
+    3300284: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3 9
+    3300286: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4
+    3300288: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 1
+    3300290: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 10
+    3300292: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 11
+    3300294: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 2
+    3300296: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 3
+    3300298: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 4
+    3300300: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 5
+    3300302: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 6
+    3300304: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 7
+    3300306: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 8
+    3300308: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4 9
+    3300310: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw
+    3300312: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 1
+    3300314: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 10
+    3300316: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 11
+    3300318: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 2
+    3300320: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 3
+    3300322: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 4
+    3300324: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 5
+    3300326: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 6
+    3300328: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 7
+    3300330: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 8
+    3300332: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw 9
+    3300334: CGM_Monitors_and_Sideboards_Screen_B_1
+    3300336: CGM_Monitors_and_Sideboards_Screen_B_2
+    3300338: CGM_Monitors_and_Sideboards_Screen_B_3
+    3300340: CGM_Monitors_and_Sideboards_Screen_B_4
+    3300342: CGM_Monitors_and_Sideboards_Screen_B_5
+    3300344: CGM_Monitors_and_Sideboards_Screen_B_6
+    3300346: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor
+    3300348: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 1
+    3300350: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 2
+    3300352: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 3
+    3300354: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 4
+    3300356: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor 5
+    3300358: CGM_Monitors_and_Sideboards_Sideboard_Standard
+    3300360: CGM_Monitors_and_Sideboards_Sideboard_Standard 1
+    3300362: CGM_Tabletop_Components_Brochure_Back
+    3300364: CGM_Tabletop_Components_Brochure_SketchUp_Information_
+    3300366: CGM_Tabletop_Components_Computer_Mouse
+    3300368: CGM_Tabletop_Components_Keyboard
+    3300370: group_0
+    3300372: ID100
+    3300374: ID1005
+    3300376: ID1011
+    3300378: ID1019
+    3300380: ID1025
+    3300382: ID1031
+    3300384: ID1037
+    3300386: ID1043
+    3300388: ID1049
+    3300390: ID1055
+    3300392: ID1061
+    3300394: ID1067
+    3300396: ID108
+    3300398: ID1101
+    3300400: ID1101 1
+    3300402: ID1115
+    3300404: ID1115 1
+    3300406: ID114
+    3300408: ID120
+    3300410: ID128
+    3300412: ID134
+    3300414: ID148
+    3300416: ID154
+    3300418: ID160
+    3300420: ID17
+    3300422: ID176
+    3300424: ID192
+    3300426: ID207
+    3300428: ID213
+    3300430: ID266
+    3300432: ID266 1
+    3300434: ID266 2
+    3300436: ID266 3
+    3300438: ID266 4
+    3300440: ID272
+    3300442: ID272 1
+    3300444: ID272 2
+    3300446: ID272 3
+    3300448: ID272 4
+    3300450: ID327
+    3300452: ID348
+    3300454: ID371
+    3300456: ID384
+    3300458: ID40
+    3300460: ID400
+    3300462: ID408
+    3300464: ID428
+    3300466: ID428 1
+    3300468: ID434
+    3300470: ID434 1
+    3300472: ID46
+    3300474: ID461
+    3300476: ID461 1
+    3300478: ID486
+    3300480: ID494
+    3300482: ID507
+    3300484: ID515
+    3300486: ID533
+    3300488: ID533 1
+    3300490: ID533 10
+    3300492: ID533 11
+    3300494: ID533 12
+    3300496: ID533 13
+    3300498: ID533 14
+    3300500: ID533 15
+    3300502: ID533 16
+    3300504: ID533 17
+    3300506: ID533 18
+    3300508: ID533 19
+    3300510: ID533 2
+    3300512: ID533 20
+    3300514: ID533 21
+    3300516: ID533 22
+    3300518: ID533 23
+    3300520: ID533 3
+    3300522: ID533 4
+    3300524: ID533 5
+    3300526: ID533 6
+    3300528: ID533 7
+    3300530: ID533 8
+    3300532: ID533 9
+    3300534: ID54
+    3300536: ID563
+    3300538: ID563 1
+    3300540: ID563 2
+    3300542: ID563 3
+    3300544: ID563 4
+    3300546: ID563 5
+    3300548: ID569
+    3300550: ID569 1
+    3300552: ID569 2
+    3300554: ID569 3
+    3300556: ID569 4
+    3300558: ID569 5
+    3300560: ID575
+    3300562: ID575 1
+    3300564: ID575 2
+    3300566: ID575 3
+    3300568: ID575 4
+    3300570: ID575 5
+    3300572: ID581
+    3300574: ID581 1
+    3300576: ID581 2
+    3300578: ID581 3
+    3300580: ID581 4
+    3300582: ID581 5
+    3300584: ID60
+    3300586: ID606
+    3300588: ID606 1
+    3300590: ID606 10
+    3300592: ID606 11
+    3300594: ID606 2
+    3300596: ID606 3
+    3300598: ID606 4
+    3300600: ID606 5
+    3300602: ID606 6
+    3300604: ID606 7
+    3300606: ID606 8
+    3300608: ID606 9
+    3300610: ID612
+    3300612: ID612 1
+    3300614: ID612 10
+    3300616: ID612 11
+    3300618: ID612 2
+    3300620: ID612 3
+    3300622: ID612 4
+    3300624: ID612 5
+    3300626: ID612 6
+    3300628: ID612 7
+    3300630: ID612 8
+    3300632: ID612 9
+    3300634: ID626
+    3300636: ID648
+    3300638: ID66
+    3300640: ID670
+    3300642: ID692
+    3300644: ID715
+    3300646: ID736
+    3300648: ID765
+    3300650: ID765 1
+    3300652: ID765 2
+    3300654: ID765 3
+    3300656: ID765 4
+    3300658: ID765 5
+    3300660: ID781
+    3300662: ID781 1
+    3300664: ID781 2
+    3300666: ID781 3
+    3300668: ID781 4
+    3300670: ID781 5
+    3300672: ID816
+    3300674: ID824
+    3300676: ID86
+    3300678: ID878
+    3300680: ID928
+    3300682: ID928 1
+    3300684: ID928 2
+    3300686: ID928 3
+    3300688: ID928 4
+    3300690: ID928 5
+    3300692: ID94
+    3300694: ID946
+    3300696: ID954
+    3300698: ID960
+    3300700: ID966
+    3300702: ID980
+    3300704: ID980 1
+    3300706: ID980 2
+    3300708: ID980 3
+    3300710: ID980 4
+    3300712: ID980 5
+    3300714: ID980 6
+    4300000: CGM_Tabletop_Components_Keyboard
+    4300002: ID17
+    4300004: CGM_Tabletop_Components_Computer_Mouse
+    4300006: ID40
+    4300008: ID46
+    4300010: ID54
+    4300012: ID60
+    4300014: ID66
+    4300016: CGM_Chair_Backrest
+    4300018: ID86
+    4300020: ID94
+    4300022: ID100
+    4300024: ID108
+    4300026: ID114
+    4300028: ID120
+    4300030: ID128
+    4300032: ID134
+    4300034: CGM_Chair_Seat
+    4300036: ID148
+    4300038: ID154
+    4300040: ID160
+    4300042: CGM_Chair_Armrest_Holder
+    4300044: ID176
+    4300046: CGM_Chair_Armrest_Holder
+    4300048: ID192
+    4300050: CGM_Chair_Headrest
+    4300052: group_0
+    4300054: ID207
+    4300056: ID213
+    4300058: CGM_Chair_Seat_Frame
+    4300060: CGM_Chair_Hydraulics__1
+    4300062: CGM_Chair_Wheel_Arm
+    4300064: CGM_Chair_Wheel_Holder
+    4300066: ID266
+    4300068: ID272
+    4300070: CGM_Chair_Wheel
+    4300072: CGM_Chair_Armrest
+    4300074: CGM_Chair_Armrest
+    4300076: CGM_Chair_Hydraluics__2
+    4300078: CGM_Tabletop_Components_Brochure_Back
+    4300080: ID327
+    4300082: CGM_Tabletop_Components_Brochure_SketchUp_Information_
+    4300084: ID348
+    4300086: CGM_Monitors_and_Sideboards_Sideboard_Standard
+    4300088: ID371
+    4300090: ID384
+    4300092: CGM_Monitors_and_Sideboards_Sideboard_Standard
+    4300094: ID400
+    4300096: ID408
+    4300098: CGM_Monitors_and_Sideboards_Lamp_Holder2
+    4300100: ID428
+    4300102: ID434
+    4300104: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides
+    4300106: CGM_Monitors_and_Sideboards_LED_Lamp_Armature
+    4300108: ID461
+    4300110: CGM_Monitors_and_Sideboards_LED_Lamp_Armature_Sides
+    4300112: CGM_Monitors_and_Sideboards_LED_Lamp_Sound_Shower_and_Technology
+    4300114: ID486
+    4300116: ID494
+    4300118: ID507
+    4300120: ID515
+    4300122: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__3
+    4300124: ID533
+    4300126: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__2
+    4300128: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__4
+    4300130: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30__1
+    4300132: ID563
+    4300134: ID569
+    4300136: ID575
+    4300138: ID581
+    4300140: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_Screw
+    4300142: CGM_Monitors_and_Sideboards_Monitor
+    4300144: ID606
+    4300146: ID612
+    4300148: CGM_Monitors_and_Sideboards_Screen_B_4
+    4300150: ID626
+    4300152: CGM_Monitors_and_Sideboards_Screen_B_5
+    4300154: ID648
+    4300156: CGM_Monitors_and_Sideboards_Screen_B_6
+    4300158: ID670
+    4300160: CGM_Monitors_and_Sideboards_Screen_B_1
+    4300162: ID692
+    4300164: CGM_Monitors_and_Sideboards_Screen_B_3
+    4300166: ID715
+    4300168: CGM_Monitors_and_Sideboards_Screen_B_2
+    4300170: ID736
+    4300172: CGM_Monitors_and_Sideboards_Monitor_Holder_MHP-C30_2L
+    4300174: ID765
+    4300176: CGM_Monitors_and_Sideboards_Screen_Second_row_of_monitor
+    4300178: ID781
+    4300180: CGM_Base_table_Topboard_B6
+    4300182: ID816
+    4300184: ID824
+    4300186: CGM_Base_table_Pillar
+    4300188: CGM_Base_table_Topboard_Frame_B6
+    4300190: CGM_Base_table_Monitorboard_Arm
+    4300192: CGM_Base_table_Monitorboard_Pillar__1
+    4300194: CGM_Base_table_Monitorboard_Pillar__2
+    4300196: CGM_Base_table_Technical_Shelf_1400
+    4300198: ID878
+    4300200: CGM_Base_table_Monitorboard_Arm
+    4300202: CGM_Base_table_Monitorboard_Pillar__1
+    4300204: CGM_Base_table_Monitorboard_Pillar__2
+    4300206: CGM_Base_table_Monitorboard_Frame_B6
+    4300208: CGM_Base_table_Skirt_A
+    4300210: ID928
+    4300212: CGM_Base_table_Monitorboard_B6
+    4300214: ID946
+    4300216: ID954
+    4300218: ID960
+    4300220: ID966
+    4300222: CGM_Base_table_Skirt_A_Holder
+    4300224: ID980
+    4300226: CGM_Base_table_Pillar_with_CGM_Loggo
+    4300228: ID1005
+    4300230: ID1011
+    4300232: ID1019
+    4300234: ID1025
+    4300236: ID1031
+    4300238: ID1037
+    4300240: ID1043
+    4300242: ID1049
+    4300244: ID1055
+    4300246: ID1061
+    4300248: ID1067
+    4300250: CGM_Base_table_Cabelchain_old
+    4300252: CGM_Base_table_Pillar_Foot
+    4300254: CGM_Base_table_Pillar_Distance
+    4300256: ID1101
+    4300258: CGM_Base_table_Cabelbox_new
+    4300260: ID1115
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
