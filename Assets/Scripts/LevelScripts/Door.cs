@@ -27,8 +27,9 @@ public class Door : MonoBehaviour {
     {
         if (obj.transform.name == "Player")
         {
-            opening = true;
-            closing = false;
+ 
+                opening = true;
+                closing = false;
         }
     }
     void OnTriggerExit(Collider obj)
